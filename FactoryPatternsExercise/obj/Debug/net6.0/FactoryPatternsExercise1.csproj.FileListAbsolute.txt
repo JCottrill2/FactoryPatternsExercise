@@ -1,0 +1,15 @@
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\bin\Debug\net6.0\FactoryPatternsExercise1.exe
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\bin\Debug\net6.0\FactoryPatternsExercise1.deps.json
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\bin\Debug\net6.0\FactoryPatternsExercise1.runtimeconfig.json
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\bin\Debug\net6.0\FactoryPatternsExercise1.dll
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\bin\Debug\net6.0\FactoryPatternsExercise1.pdb
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.csproj.AssemblyReference.cache
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.AssemblyInfoInputs.cache
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.AssemblyInfo.cs
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.dll
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\refint\FactoryPatternsExercise1.dll
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.pdb
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\FactoryPatternsExercise1.genruntimeconfig.cache
+C:\Users\Jessica\Desktop\Repos\FactoryPatternsExercise\FactoryPatternsExercise\obj\Debug\net6.0\ref\FactoryPatternsExercise1.dll
